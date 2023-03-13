@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ostadnavid
-- 👀 I’m interested in machine learning(deep learning)
-- 🌱 I’m currently learning deep learning
+- 👋 Hi, I’m navid poladi
+- 👀 I’m interested in python programming and machine learning(deep learning)
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me navidstark2723@gmail.com
 
